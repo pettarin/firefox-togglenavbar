@@ -1,0 +1,27 @@
+{
+  "title": "Toggle Nav Bar",
+  "name": "togglenavbar",
+  "version": "0.0.3",
+  "description": "A Firefox add-on to toggle the nav bar by clicking a tab",
+  "main": "index.js",
+  "author": "Alberto Pettarin",
+  "homepage": "http://www.albertopettarin.it/",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack",
+    "toggle",
+    "nav bar",
+    "navigation bar",
+    "hide",
+    "show",
+    "tab",
+    "tabs",
+    "click",
+    "F2",
+    "F2 key"
+  ]
+}
